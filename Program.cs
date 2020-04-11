@@ -6,17 +6,17 @@ namespace conditional_and_loops
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            int num=1;
-            while (num<6)
-            {
-                Console.WriteLine(num);
-                num++;
-            }
-            int x=0;
-            while(++x<6){
-                Console.WriteLine(x);
-            }
+for (int x=10;x<15;x++)
+{
+Console.WriteLine("value of x : {0} ",x);
+
+
+int xy=10;
+for(;xy>0;xy-=2)
+{
+    Console.WriteLine("result is : "+xy);
+}
+}
         }
     }
 }
