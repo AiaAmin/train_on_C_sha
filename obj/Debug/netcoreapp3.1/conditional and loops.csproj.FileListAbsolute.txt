@@ -1,0 +1,13 @@
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\bin\Debug\netcoreapp3.1\conditional and loops.exe
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\bin\Debug\netcoreapp3.1\conditional and loops.deps.json
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\bin\Debug\netcoreapp3.1\conditional and loops.runtimeconfig.json
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\bin\Debug\netcoreapp3.1\conditional and loops.runtimeconfig.dev.json
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\bin\Debug\netcoreapp3.1\conditional and loops.dll
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\bin\Debug\netcoreapp3.1\conditional and loops.pdb
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\obj\Debug\netcoreapp3.1\conditional and loops.csprojAssemblyReference.cache
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\obj\Debug\netcoreapp3.1\conditional and loops.csproj.CoreCompileInputs.cache
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\obj\Debug\netcoreapp3.1\conditional and loops.AssemblyInfoInputs.cache
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\obj\Debug\netcoreapp3.1\conditional and loops.AssemblyInfo.cs
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\obj\Debug\netcoreapp3.1\conditional and loops.dll
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\obj\Debug\netcoreapp3.1\conditional and loops.pdb
+E:\Sch\sessio7\Conditionals and Loops\conditional and loops\obj\Debug\netcoreapp3.1\conditional and loops.genruntimeconfig.cache
